@@ -1,6 +1,0 @@
-yeobaek-ai-ad/
-├── README.md          ← GitHub 첫 화면 (프로젝트 개요·도구·파이프라인·체크리스트)
-├── STORYBOARD.md      ← 스토리보드 전문 (웹에서 바로 렌더링)
-├── PROMPTS.md         ← 씬별 프롬프트 복붙용 + 수정 전/후 로그
-├── docs/여백_스토리보드.pdf  ← 정식 제출본
-└── assets/{images,video,audio,final}/  ← 생성물 넣을 폴더
